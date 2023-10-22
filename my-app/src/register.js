@@ -41,7 +41,7 @@ export default function Register() {
  }
 
   return (
-    <div>
+    <div className="register">
       <h2>Register</h2>
       <Form  method="POST">
        

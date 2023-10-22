@@ -7,9 +7,9 @@ import Navbar from 'react-bootstrap/Navbar';
 function NavBar() {
   return (
     <>
-      <Navbar bg="dark" data-bs-theme="dark">
-        <Container>
-          <Navbar.Brand href="./Navbar">PRED</Navbar.Brand>
+      <Navbar className="nav" >
+        <Container >
+          <Navbar.Brand href="">ARTSTK</Navbar.Brand>
           <Nav className="me-auto">
             
             <Nav.Link href="./register">Signup</Nav.Link>
